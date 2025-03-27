@@ -3,7 +3,7 @@
 
 
 ## Sobre o Projeto
-Indisponível.
+Formulário de login onde o usuário deve infomar seu email e senha para fazer login.
 
 
 
