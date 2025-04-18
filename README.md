@@ -13,19 +13,35 @@ Indisponível.
 
 
 ## Status do Projeto
-O projeto está **Em desenvolvimento**.
+O projeto está **Concluído**.
 
 
 
 ## Funcionalidades
-Indisponível.
+
+```plaintext
+- Validação de formulário nativa do HTML   #Impede que o usuário faça login se os campos de email e senha estiverem vazios ou se não forem preenchidos corretamente 
+```
 
 
 
 ## Tecnologias Utilizadas
-Indisponível.
+
+```plaintext
+- HTML         #Para criar a estrutura da página e a validação de formulário
+- CSS          #Para estilizar a página
+```
 
 
 
 ## Estrutura de Pastas
-Indisponível.
+
+```plaintext
+src/                         #Pasta com o código-fonte do projeto
+   css/                      #Pasta com arquivos CSS
+      index.css              #Estilos para a página principal
+      reset.css              #Estilos para todos os elementos da página
+      responsive.css         #Estilos para design responsivo
+index.html                   #Página principal
+README.md                    #Informações do projeto
+```
