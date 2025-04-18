@@ -1,5 +1,7 @@
 ## Formulário de Login
 
+![Imagens do projeto](https://github.com/adri-ramos25/formulario-login/raw/main/src/images/screenshot.png)
+
 
 
 ## Sobre o Projeto
@@ -8,7 +10,13 @@ Formulário de login onde o usuário deve infomar seu email e senha para fazer l
 
 
 ## Acesso ao Projeto
-Indisponível.
+
+Você pode ver o projeto funcionando através do seguinte link: https://adri-ramos25.github.io/formulario-login/
+
+Ou, se preferir rodar localmente:
+
+1. Clone o repositório: `git clone https://github.com/adri-ramos25/formulario-login.git`
+2. Abra o arquivo `index.html` no navegador.
 
 
 
